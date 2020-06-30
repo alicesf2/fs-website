@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Menu, Icon } from "semantic-ui-react";
+import { Dropdown, Menu, Icon } from "semantic-ui-react";
 import { Link } from "react-router-dom";
 import "./Nav.css";
 
@@ -23,10 +23,16 @@ export default function Nav() {
             <Link to="/about">About</Link>
           </Menu.Item>
           <Menu.Item className="nav-text">
-            <Link to="/coords">Our Coords</Link>
-          </Menu.Item>
-          <Menu.Item className="nav-text">
-            <Link to="/be-a-coord">Be a Coord!</Link>
+            <Dropdown text="Coords">
+              <Dropdown.Menu>
+                <Dropdown.Item>
+                  <Link to="/our-coords">Our Coords</Link>
+                </Dropdown.Item>
+                <Dropdown.Item>
+                  <Link to="/be-a-coord">Be a Coord!</Link>
+                </Dropdown.Item>
+              </Dropdown.Menu>
+            </Dropdown>
           </Menu.Item>
           <Menu.Item className="nav-text">
             <Link to="/calendar">Calendar</Link>

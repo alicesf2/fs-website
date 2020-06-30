@@ -4,8 +4,9 @@ import { Container } from "semantic-ui-react";
 import { ParallaxProvider } from "react-scroll-parallax";
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
+import OurCoords from "./pages/Coords/OurCoords/OurCoords";
+import BeACoord from "./pages/Coords/BeACoord/BeACoord";
 import Nav from "./components/Nav/Nav";
-
 import "./App.css";
 
 export default function App() {
@@ -17,7 +18,8 @@ export default function App() {
           <Switch>
             <Route exact path="/" component={Home} />
             <Route exact path="/about" component={About} />
-            <About />
+            <Route exact path="/our-coords" component={OurCoords} />
+            <Route exact path="/be-a-coord" component={BeACoord} />
           </Switch>
         </Container>
       </Router>
