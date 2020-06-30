@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/fs-website/static/css/main.18c60065.chunk.css",
+    "main.js": "/fs-website/static/js/main.4e30b835.chunk.js",
+    "main.js.map": "/fs-website/static/js/main.4e30b835.chunk.js.map",
+    "runtime-main.js": "/fs-website/static/js/runtime-main.5186909c.js",
+    "runtime-main.js.map": "/fs-website/static/js/runtime-main.5186909c.js.map",
+    "static/js/2.3e5d0c3f.chunk.js": "/fs-website/static/js/2.3e5d0c3f.chunk.js",
+    "static/js/2.3e5d0c3f.chunk.js.map": "/fs-website/static/js/2.3e5d0c3f.chunk.js.map",
+    "index.html": "/fs-website/index.html",
+    "precache-manifest.25cc0cf56511cd17e73a032056fb722c.js": "/fs-website/precache-manifest.25cc0cf56511cd17e73a032056fb722c.js",
+    "service-worker.js": "/fs-website/service-worker.js",
+    "static/css/main.18c60065.chunk.css.map": "/fs-website/static/css/main.18c60065.chunk.css.map",
+    "static/js/2.3e5d0c3f.chunk.js.LICENSE.txt": "/fs-website/static/js/2.3e5d0c3f.chunk.js.LICENSE.txt",
+    "static/media/aaa-logo.png": "/fs-website/static/media/aaa-logo.7faa0bbd.png",
+    "static/media/About.css": "/fs-website/static/media/about-bg.09d36716.png",
+    "static/media/anjolee.jpeg": "/fs-website/static/media/anjolee.a951c26f.jpeg",
+    "static/media/asha.png": "/fs-website/static/media/asha.7baa98ad.png",
+    "static/media/BeACoord.css": "/fs-website/static/media/bac-bg.4906c4b0.png",
+    "static/media/faith.png": "/fs-website/static/media/faith.ca1a6810.png",
+    "static/media/Home.css": "/fs-website/static/media/home3.02680a83.png",
+    "static/media/jasmine.jpg": "/fs-website/static/media/jasmine.6225137f.jpg",
+    "static/media/jason.jpg": "/fs-website/static/media/jason.bc365d3f.jpg",
+    "static/media/julia.jpg": "/fs-website/static/media/julia.04f56b78.jpg",
+    "static/media/margaret.jpeg": "/fs-website/static/media/margaret.3fa7bdc1.jpeg",
+    "static/media/marielle.jpg": "/fs-website/static/media/marielle.c20a2410.jpg",
+    "static/media/mary.jpg": "/fs-website/static/media/mary.a2773337.jpg",
+    "static/media/michael.jpg": "/fs-website/static/media/michael.276b6b17.jpg",
+    "static/media/michelle.jpeg": "/fs-website/static/media/michelle.518d5ada.jpeg",
+    "static/media/OurCoords.css": "/fs-website/static/media/oc-bg.f7d07e8c.png",
+    "static/media/PastFS.css": "/fs-website/static/media/pfs-bg.b6f96284.png",
+    "static/media/rafy.jpg": "/fs-website/static/media/rafy.c43c6175.jpg",
+    "static/media/vicki.jpg": "/fs-website/static/media/vicki.8ba07968.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5186909c.js",
+    "static/js/2.3e5d0c3f.chunk.js",
+    "static/css/main.18c60065.chunk.css",
+    "static/js/main.4e30b835.chunk.js"
+  ]
+}
