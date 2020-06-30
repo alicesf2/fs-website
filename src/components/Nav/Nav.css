@@ -1,0 +1,10 @@
+.nav-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+.fs-nav {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+}
