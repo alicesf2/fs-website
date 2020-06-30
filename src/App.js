@@ -18,11 +18,11 @@ export default function App() {
         <Container fluid>
           <Nav />
           <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/our-coords" component={OurCoords} />
-            <Route exact path="/be-a-coord" component={BeACoord} />
-            <Route exact path="/past-fs" component={PastFS} />
+            <Route exact path="/fs-website" component={Home} />
+            <Route exact path="/fs-website/about" component={About} />
+            <Route exact path="/fs-website/our-coords" component={OurCoords} />
+            <Route exact path="/fs-website/be-a-coord" component={BeACoord} />
+            <Route exact path="/fs-website/past-fs" component={PastFS} />
           </Switch>
           <Footer />
         </Container>
