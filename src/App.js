@@ -6,7 +6,9 @@ import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
 import OurCoords from "./pages/Coords/OurCoords/OurCoords";
 import BeACoord from "./pages/Coords/BeACoord/BeACoord";
+import PastFS from "./pages/PastFS/PastFS";
 import Nav from "./components/Nav/Nav";
+import Footer from "./components/Footer/Footer";
 import "./App.css";
 
 export default function App() {
@@ -20,7 +22,9 @@ export default function App() {
             <Route exact path="/about" component={About} />
             <Route exact path="/our-coords" component={OurCoords} />
             <Route exact path="/be-a-coord" component={BeACoord} />
+            <Route exact path="/past-fs" component={PastFS} />
           </Switch>
+          <Footer />
         </Container>
       </Router>
     </ParallaxProvider>

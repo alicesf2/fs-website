@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Container, Image, Segment } from "semantic-ui-react";
+import { Card, Container, Image } from "semantic-ui-react";
 import scenes from "../../data/scenes";
 import "./About.css";
 
@@ -50,6 +50,7 @@ export default function About() {
           ))}
         </Card.Group>
       </Container>
+      <hr className="footer-divider" />
     </>
   );
 }

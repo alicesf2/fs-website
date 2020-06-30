@@ -144,8 +144,8 @@ export default function OurCoords() {
             ))}
           </Grid.Row>
         </Grid>
-        <hr className="section-divider" />
       </Container>
+      <hr className="footer-divider" />
     </>
   );
 }

@@ -1,1 +1,43 @@
+.home-heading {
+  height: 100vh;
+  position: relative;
+  display: block;
+  background-image: url("../../assets/dance/home.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 
+.home-section-1 {
+  height: 100vh;
+  position: relative;
+  display: block;
+  background-image: url("../../assets/dance/home1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home-section-2 {
+  height: 100vh;
+  position: relative;
+  display: block;
+  background-image: url("../../assets/dance/home2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home-section-3 {
+  height: 100vh;
+  position: relative;
+  display: block;
+  background-image: url("../../assets/dance/home3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}

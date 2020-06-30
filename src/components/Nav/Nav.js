@@ -16,6 +16,9 @@ export default function Nav() {
     return (
       <div className="fs-nav">
         <Menu secondary size="large">
+          <Menu.Item>
+            <img src={require("../../assets/logos/aaa-logo.png")} />
+          </Menu.Item>
           <Menu.Item className="nav-text">
             <Link to="/">Home</Link>
           </Menu.Item>

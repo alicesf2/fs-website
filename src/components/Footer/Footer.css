@@ -1,0 +1,14 @@
+.footer-divider {
+  margin: 10rem 5rem 5rem 5rem;
+}
+
+.footer-container {
+  margin-top: 5rem;
+}
+
+.footer-msg {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 5rem;
+  font-size: 15px;
+  text-align: center;
+}
